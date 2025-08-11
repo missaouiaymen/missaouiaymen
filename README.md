@@ -18,11 +18,6 @@ Passionate about building high-quality, scalable, and robust solutions, I thrive
 
 ---
 
-### 📈 GitHub Stats
-![Aymen's GitHub stats](https://github-readme-stats.vercel.app/api?username=aymenmissaoui&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aymenmissaoui&layout=compact&theme=tokyonight)
-
----
 
 ### 🏆 Achievements & Highlights
 - **9+ years** of full stack development experience.
